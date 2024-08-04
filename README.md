@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ![Rick roll](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
-<img src="[https://your-image-url.type](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)" width="300">
 
 <!--
 **geenzo69/geenzo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
