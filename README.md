@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Rick roll](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamWyBRjdms9QdJH3zei6_neDcpNkDpcVPzA&s)
+![Rick roll]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamWyBRjdms9QdJH3zei6_neDcpNkDpcVPzA&s](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif))
 
 <!--
 **geenzo69/geenzo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
