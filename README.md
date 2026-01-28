@@ -12,11 +12,8 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geenzo69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geenzo69&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geenzo69&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geenzo69&show_icons=true&theme=vue&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=geenzo69&theme=vue&hide_border=true)
 
 ## 📫 Connect with Me
 
