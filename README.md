@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geenzo69&show_icons=true&theme=vue&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=geenzo69&theme=vue&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geenzo69&show_icons=true&theme=vue&hide_border=true&count_private=true)
 
 ## 📫 Connect with Me
 
