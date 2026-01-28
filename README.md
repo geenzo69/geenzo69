@@ -2,8 +2,8 @@
 
 ### Simply a Developer building cool things. 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=geenzo69&label=Profile%20Views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/a20b0cea-1e80-4c07-864b-eb53dd59f01a.svg)](https://wakatime.com/@a20b0cea-1e80-4c07-864b-eb53dd59f01a)
+![Profile Views](https://komarev.com/ghpvc/?username=geenzo69&label=Profile%20Views&color=0e75b6&style=flat)
 ---
 
 ## 🛠️ Tech Stack & Arsenal
