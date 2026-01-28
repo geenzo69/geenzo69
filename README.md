@@ -1,24 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Geenzo! 👋
 
-![Rick roll](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
+### Simply a Developer building cool things. 🚀
 
-<!--
-**geenzo69/geenzo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=geenzo69&label=Profile%20Views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Arsenal
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=geenzo69&theme=dark&hide_border=true)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,lua,vscode,git,github&perline=15)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geenzo69&theme=dark&show_icons=true&hide_border=true&count_private=true)
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=geenzo69&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geenzo69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geenzo69&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geenzo69&theme=tokyonight&hide_border=true)
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geenzo69)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
