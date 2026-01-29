@@ -10,9 +10,14 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,lua,vscode,git,github&perline=15)
 
-## 📊 GitHub Analytics
+## 📊 Analytics
 
-![GitHub Stats](https://cd576438-04b2-4713-9f12-7882ec2bd312.us-east-1.cloud.genez.io/api?username=geenzo69&show_icons=true&theme=vue&hide_border=true&count_private=true)
+<a href="https://github.com/geenzo69">
+  <img align="center" src="https://cd576438-04b2-4713-9f12-7882ec2bd312.us-east-1.cloud.genez.io/api/wakatime?username=geenzo&theme=vue&custom_title=Activity+Last+Week" />
+</a>
+<a href="https://github.com/geenzo69">
+  <img align="center" src="https://cd576438-04b2-4713-9f12-7882ec2bd312.us-east-1.cloud.genez.io/api?username=geenzo69&show_icons=true&theme=vue&hide_border=true&count_private=true" />
+</a>
 
 ## 📫 Connect with Me
 
